@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    background: url('header-background.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
